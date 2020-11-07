@@ -1,3 +1,3 @@
 # hello-Unity
-First GitHub repository
+First Unity GitHub repository
 Unity Halloween Game
